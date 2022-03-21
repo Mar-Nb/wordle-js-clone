@@ -13,7 +13,7 @@ Les modifications que j'ai pu faire de ce code sont légères : un peu de docume
 
 ## Technologies utilisées
 
-Pour ce code l'essentiel du code est fait en Javascript. L'HTML comme le CSS sont relativement succinct. La visualisation du code repose sur le package `live-server` de NPM.
+Pour ce code l'essentiel du code est fait en Javascript. L'HTML comme le CSS sont relativement succinct. La visualisation du jeu repose sur le package `live-server` de NPM.
 ## Lancer le projet
 
 Cloner le projet :
